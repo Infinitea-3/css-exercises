@@ -1,4 +1,18 @@
-p{
-  background-color: #FF9999
-  font-family: "Verdana", sans-serif;
+.odd {
+  background-color: #FF9999;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big-font-size {
+  font-size: 24px;
+}
+
+#two {
+  font-size: 36px;
+  color: #0000CC;
+}
+
+#four {
+  background-color: #99FF99;
+  font-weight: bold;
 }
